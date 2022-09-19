@@ -1,0 +1,52 @@
+
+body{
+    background-image: url(https://img.freepik.com/free-photo/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products_1258-54562.jpg?t=st=1663613946~exp=1663614546~hmac=4c2047c780626804633bd31bfbbaac33e58188ff32246e9c71cc2dc868d289a4);
+    background-size:cover!important;
+    background-repeat: no-repeat!important;
+    background-position: center!important;
+}
+
+.theme-h1{
+    color:white!important
+}
+.theme-muted{
+    color:rgb(221, 218, 218)!important;
+}
+
+.theme-card{
+    background:gray!important
+}
+.theme-form-control{
+    color:white!important;
+    background:black!important;
+}
+.theme-button{
+    color:seagreen!important;
+    background:white!important;
+    border:1px solid seagreen!important;
+    transition: all .3s linear!important;
+}
+
+
+.theme-button-danger{
+    color:white!important;
+    background:    maroon!important;
+    border:1px solid maroon!important;
+    transition: all .3s linear!important;
+}
+.theme-button-danger:hover{
+    color:maroon!important;
+    background:white!important;
+    border:1px solid maroon!important;
+}
+
+.theme-mode-light{
+    color:black!important;
+    background:white!important;
+    box-shadow: 1px 1px 10px rgb(192, 156, 40)!important;
+}
+.theme-mode-dark{
+    color:white!important;
+    background:black!important;
+    box-shadow: 1px 1px 10px black!important;
+}

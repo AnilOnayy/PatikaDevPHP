@@ -1,0 +1,51 @@
+
+body{
+    background-image: url(https://img.freepik.com/free-vector/gradient-background-vector-spring-colors_53876-117271.jpg?t=st=1663609447~exp=1663610047~hmac=d88309283a7cf5046bbcc6a2fae6a27454f72841556aeefa30dae12005a1f02d);
+    background-size:cover!important;
+    background-repeat: no-repeat!important;
+    background-position: center!important;
+}
+
+.theme-h1{
+    color:black!important
+}
+.theme-muted{
+    color:gray!important;
+}
+
+.theme-card{
+    background:#fff;
+}
+.theme-form-control{
+    color:black!important;
+    background:white!important;
+}
+.theme-button{
+    color:white!important;
+    background:seagreen!important;
+    border:1px solid seagreen!important;
+    transition: all .3s linear!important;
+}
+
+.theme-button-danger{
+    color:white!important;
+    background:maroon!important;
+    border:1px solid white!important;
+    transition: all .3s linear!important;
+}
+.theme-button-danger:hover{
+    color:maroon!important;
+    background:white!important;
+    border:1px solid maroon!important;
+}
+
+.theme-mode-light{
+    color:black!important;
+    background:white!important;
+    box-shadow: 1px 1px 10px rgb(192, 156, 40)!important;
+}
+.theme-mode-dark{
+    color:white!important;
+    background:black!important;
+    box-shadow: 1px 1px 10px black!important;
+}
